@@ -65,7 +65,7 @@ Ambos juegos están diseñados para ejecutarse directamente desde el navegador. 
 ### Flexbox Froggy
 
 ![Flexbox Froggy - align-content](./Captura%20de%20pantalla%202025-09-02%20155553.png)
-![](https://i.ibb.co/1fWZH1sn/Captura-de-pantalla-2025-09-03-142351.png)
+![](https://i.ibb.co/QW5nhN4/Captura-de-pantalla-2025-09-02-160711.png)
 
 ---
 
