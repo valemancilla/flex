@@ -59,7 +59,7 @@ Ambos juegos están diseñados para ejecutarse directamente desde el navegador. 
 
 ### Flexbox Zombies
 
-![Flexbox Zombies - Pantalla principal](./Captura%20de%20pantalla%202025-09-03%20142325.png)
+![](https://i.ibb.co/1fWZH1sn/Captura-de-pantalla-2025-09-03-142351.png)
 ![](https://i.ibb.co/20r9Y8WB/Captura-de-pantalla-2025-09-03-142325.png)
 
 ### Flexbox Froggy
