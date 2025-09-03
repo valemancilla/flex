@@ -42,9 +42,7 @@ Todo esto mediante el uso práctico en escenarios gamificados, facilitando el ap
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
-- **Canvas** (interacción visual y animaciones)
-- **Gamificación educativa** para mejorar la retención del conocimiento
+
 
 ---
 
